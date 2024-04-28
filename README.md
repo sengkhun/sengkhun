@@ -5,5 +5,5 @@ I'm a full stack engineer who is passionate about creating impactful solutions f
 - Microsoft Azure
 
 ### Currently Working On
-- Ready Interview**
+- Ready Interview
 [![Ready Interview](https://github.com/sengkhun/sengkhun/blob/main/bannerReadyInterview.jpg)](https://github.com/sengkhun/ready-interview.git)
